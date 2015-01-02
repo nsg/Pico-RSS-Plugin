@@ -7,7 +7,7 @@
  * @author Stefan Berggren
  * @link http://pico.dev7studios.com
  * @license http://opensource.org/licenses/MIT
- * @version 1.1
+ * @version 1.2
  */
 class Pico_Rss {
 
