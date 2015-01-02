@@ -3,6 +3,11 @@ Pico RSS Plugin
 
 Provides an RSS Feed for Pico. It will only include content with a "Date" field.
 
+In this fork
+------------
+
+* Sort posts by date
+
 Install
 -------
 
