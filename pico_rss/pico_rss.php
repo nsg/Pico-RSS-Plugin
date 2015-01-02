@@ -4,6 +4,7 @@
  * RSS Feed plugin for Pico
  *
  * @author Gilbert Pellegrom
+ * @author Stefan Berggren
  * @link http://pico.dev7studios.com
  * @license http://opensource.org/licenses/MIT
  * @version 1.1
